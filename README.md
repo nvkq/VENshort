@@ -41,12 +41,7 @@ Vencord أداة قوية، لكنها قد تكون معقدة للمبتدئي
 
 VenSHORT ليس برنامجًا لتثبيته، بل هو **أداة ويب** لتوليد ملف الإعدادات الخاص بك.
 
-<p align="center"><strong>شرح مرئي خطوة بخطوة (انقر على الصورة للمشاهدة على YouTube)</strong></p>
-<div align="center">
-  <a href="https://youtu.be/_GjGLfaqWa0" target="_blank">
-    <img src="https://img.youtube.com/vi/_GjGLfaqWa0/0.jpg" alt="شرح مرئي لاستخدام VenSHORT">
-  </a>
-</div>
+
 
 1.  **افتح الموقع:** انتقل إلى [**صفحة الإضافات في VenSHORT**](https://smsmy.github.io/VENshort/plugins.html).
 2.  **اختر إضافاتك:** تصفح الفئات واختر الإضافات التي تريدها بالنقر عليها.
