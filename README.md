@@ -1,7 +1,7 @@
 # ✨ VenSHORT | فينشورت ✨
 
 <p align="center">
-  <a href="https://venshort.dev/">
+  <a href="https://smsmy.github.io/VENshort">
     <img src="assets/images/logo-nav-oneko-padding.png" alt="شعار VenSHORT" width="150">
   </a>
 </p>
@@ -48,7 +48,7 @@ VenSHORT ليس برنامجًا لتثبيته، بل هو **أداة ويب** 
   </a>
 </div>
 
-1.  **افتح الموقع:** انتقل إلى [**صفحة الإضافات في VenSHORT**](https://venshort.dev/plugins.html).
+1.  **افتح الموقع:** انتقل إلى [**صفحة الإضافات في VenSHORT**](https://smsmy.github.io/VENshort/plugins.html).
 2.  **اختر إضافاتك:** تصفح الفئات واختر الإضافات التي تريدها بالنقر عليها.
 3.  **(اختياري) عدّل الإعدادات:** قم بتخصيص الإعدادات المتاحة لبعض الإضافات مباشرة من الواجهة.
 4.  **أنشئ التكوين:** اضغط على زر **"إنشاء التكوين"** في أسفل الصفحة.
